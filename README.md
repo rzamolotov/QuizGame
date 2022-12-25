@@ -5,7 +5,7 @@
 UIKit.
 Use MVC pattern for app development.
 Object Oriented Programming.
-Use UIAlertControllers to display popups to the user.!
+Use UIAlertControllers to display popups to the user.
 
 Change UI elements such as Labels and Views.
 
